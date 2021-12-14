@@ -1,0 +1,62 @@
+body {
+    background-color: #a0a0a0;
+    font-family     : Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.foto {
+    border-radius: 50%;
+}
+
+#titulo,
+.subtitulo,
+.tituloPostagem {
+    color      : rgba(170, 28, 56, 0.719);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#titulo {
+    font-size     : 90 px;
+    text-transform: uppercase;
+
+}
+
+.subtitulo {
+    text-decoration: underline;
+    font-size      : 20 px;
+    font-style     : italic;
+    margin         : 0;
+    margin-bottom  : 5px;
+}
+
+.postagem {
+    color      : rgba(170, 28, 56, 0.719);
+    text-transform  : capitalize;
+    margin          : 0;
+    background-color: #919191;
+    padding         : 0 px;
+    border-style    : ridge;
+    border-color    : black;
+    border-radius   : 10px;
+    margin-bottom   : 15 px;
+}
+
+.conteudoPostagem {
+    margin       : 0;
+    margin-bottom: 15 px;
+    padding      : 10 px;
+}
+
+.imagemPostagem {
+    margin       : 0;
+    margin-bottom: 15 px;
+}
+
+ul{
+    list-style-type: square;
+    padding: 0;
+    margin: 0;
+}
+a {
+    color      : rgba(170, 28, 56, 0.719);
+    text-decoration: line-through;
+}
