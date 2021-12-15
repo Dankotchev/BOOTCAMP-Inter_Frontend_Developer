@@ -1,6 +1,7 @@
 body {
     background-color: #a0a0a0;
     font-family     : Verdana, Geneva, Tahoma, sans-serif;
+    margin          : auto;
 }
 
 .foto {
@@ -10,8 +11,7 @@ body {
 #titulo,
 .subtitulo,
 .tituloPostagem {
-    color      : rgba(170, 28, 56, 0.719);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(170, 28, 56, 0.719);
 }
 
 #titulo {
@@ -29,7 +29,7 @@ body {
 }
 
 .postagem {
-    color      : rgba(170, 28, 56, 0.719);
+    color           : rgba(170, 28, 56, 0.719);
     text-transform  : capitalize;
     margin          : 0;
     background-color: #919191;
@@ -44,6 +44,7 @@ body {
     margin       : 0;
     margin-bottom: 15 px;
     padding      : 10 px;
+    text-align   : justify;
 }
 
 .imagemPostagem {
@@ -51,12 +52,13 @@ body {
     margin-bottom: 15 px;
 }
 
-ul{
+ul {
     list-style-type: square;
-    padding: 0;
-    margin: 0;
+    padding        : 0;
+    margin         : 0;
 }
+
 a {
-    color      : rgba(170, 28, 56, 0.719);
+    color          : rgba(170, 28, 56, 0.719);
     text-decoration: line-through;
 }

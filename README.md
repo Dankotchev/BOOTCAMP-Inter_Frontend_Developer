@@ -5,7 +5,7 @@ Repositório da jornada do [Bootcamp: Inter Frontend Developer](https://web.dio.
 ---
 ## Cursos Concluídos
 
-_06 / 37 Concluídos_
+_07 / 37 Concluídos_
 
 - [x] Boas Vindas ao Bootcamp
 - [x] Lógica de Programação Essencial
@@ -13,7 +13,7 @@ _06 / 37 Concluídos_
 - [x] Introdução ao Git e ao GitHub
 - [ ] Projetos ágeis com SCRUM
 - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-- [ ] Introdução a criação de websites com HTML5 e CSS3
+- [x] Introdução a criação de websites com HTML5 e CSS3
 - [ ] Construindo páginas para internet com Bootstrap
 - [x] IDE Instalação e Configuração (Visual Studio Code)
 - [ ] Introdução ao JavaScript
